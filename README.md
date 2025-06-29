@@ -6,7 +6,7 @@ This is the project repository for a machine learning pipeline to predict procur
 [Data Source](https://www.kaggle.com/datasets/shahriarkabir/procurement-kpi-analysis-dataset)
 [GitHub Repository](https://github.com/Bdowdle4/Dowdle_Analytics_Capstone)
 [Overleaf Report](https://www.overleaf.com/read/bszyhdxsnrsf#70bd68)
-[Clickable link to my report PDF]()
+[Clickable link to my report PDF](https://github.com/Bdowdle4/Dowdle_Analytics_Capstone/blob/main/Report/Dowdle_44688_Capstone.pdf)
 
 
 ****
