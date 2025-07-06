@@ -59,9 +59,9 @@ Do you want to select it for the workspace folder? Click Yes.
 
 Verify your repository contains:
 
-- [ ] Useful .gitignore (that keeps .venv out of GitHub)
-- [ ] Professional Jupyter Notebook with with proper name, numbered sections and reflections 
+- [x] Useful .gitignore (that keeps .venv out of GitHub)
+- [ ] Professional Jupyter Notebook with with proper name, numbered sections, and reflections 
 - [ ] Useful README.md
-- [ ] Useful requirements.txt
-- [ ] Dataset, stored in a data folder
+- [x] Useful requirements.txt
+- [x] Dataset, stored in a data folder
 - [ ] Peer Review (peer_review.md)
