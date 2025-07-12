@@ -1,11 +1,15 @@
 # Dowdle Analytics Capstone Introduction
-This is the project repository for a machine learning pipeline to predict procurement compliance based on real-world procurement KPI data. This project uses historical purchase order data—including pricing, delivery, and defect metrics—to predict whether an order will be compliant with supplier agreements. By building predictive models using procurement KPIs, the goal is to support strategic sourcing and vendor performance monitoring. 
+This is the project repository for a machine learning pipeline to predict procurement compliance based on real-world procurement KPI data. This project uses historical purchase order data including pricing, delivery, and defect metrics to predict whether an order will be compliant with supplier agreements. By building predictive models using procurement KPIs, the goal is to support strategic sourcing and vendor performance monitoring. 
 
 ## Project Resources
 [Clickable link to my data file](https://github.com/Bdowdle4/Dowdle_Analytics_Capstone/blob/main/Data/Procurement%20KPI%20Analysis%20Dataset.csv)
+
 [Data Source](https://www.kaggle.com/datasets/shahriarkabir/procurement-kpi-analysis-dataset)
+
 [GitHub Repository](https://github.com/Bdowdle4/Dowdle_Analytics_Capstone)
+
 [Overleaf Report](https://www.overleaf.com/read/bszyhdxsnrsf#70bd68)
+
 [Clickable link to my report PDF](https://github.com/Bdowdle4/Dowdle_Analytics_Capstone/blob/main/Report/Dowdle_44688_Capstone.pdf)
 
 
