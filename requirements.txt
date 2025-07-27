@@ -185,6 +185,7 @@ seaborn
 # Uncomment it the SECOND time you run pip install from requirements.txt
 # Otherwise, it's too much work and takes too long. Two steps is better. 
 scikit-learn
+graphviz
 
 # ======================================================
 # NATURAL LANGUAGE PROCESSING (NLP) - CAN BE VERY LARGE
