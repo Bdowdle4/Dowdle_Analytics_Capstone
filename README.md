@@ -27,16 +27,23 @@ This is the project repository for a machine learning pipeline to predict procur
 
 ## Jupyter Notebooks
 1. Cleaning:
+   
    Open Notebooks/Cleaning.ipynb
+
    Run all cells to ingest, clean, and export cleaned_procurement_data.csv
 
 2. Exploratory Data Analysis (EDA):
+   
    Open Notebooks/EDA.ipynb
+
    Produce trend charts, histograms, correlation heatmaps, and vendor comparisons
 
 3. Modeling:
+   
    Open Notebooks/Modeling.ipynb
+
    Train, tune, and evaluate Logistic Regression and Random Forest models
+   
    Generate performance reports, ROC/AUC, calibration curves, and feature importance
 
 ****
