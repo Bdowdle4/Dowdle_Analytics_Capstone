@@ -49,7 +49,7 @@ Calibration: Brier score 0.134; slight overconfidence noted
 
 The confusion matrix below illustrates the classification performance on the test dataset. All non-compliant orders (Class 0) were misclassified, indicating a need for advanced class imbalance handling in future iterations.
 
-![Confusion Matrix]("C:\Users\Britt\Documents\44688\RFCM.png")
+![Confusion Matrix]("C:\Users\Britt\Documents\44688\Dowdle_Analytics_Capstone\Visualizations\RFCM.png")
 
 ****
 ## Future Work
