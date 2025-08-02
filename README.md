@@ -2,9 +2,11 @@
 This is the project repository for a machine learning pipeline to predict procurement compliance based on real-world procurement KPI data. This project uses historical purchase order data including pricing, delivery, and defect metrics to predict whether an order will be compliant with supplier agreements. By building predictive models using procurement KPIs, the goal is to support strategic sourcing and vendor performance monitoring. 
 
 ## Project Resources
-[Clickable link to my cleaned data file](https://github.com/Bdowdle4/Dowdle_Analytics_Capstone/blob/main/Data/cleaned_procurement_data.csv)
-
 [Data Source](https://www.kaggle.com/datasets/shahriarkabir/procurement-kpi-analysis-dataset)
+
+**Primary Dataset:** Procurement KPI Analysis Dataset by Shahrikar Kabir, available on Kaggle (2022). This dataset contains historical purchase order data including pricing, delivery, and defect metrics used for compliance prediction modeling. It is not expected to be updated. 
+
+[Clickable link to my cleaned data file](https://github.com/Bdowdle4/Dowdle_Analytics_Capstone/blob/main/Data/cleaned_procurement_data.csv)
 
 [GitHub Repository](https://github.com/Bdowdle4/Dowdle_Analytics_Capstone)
 
@@ -67,6 +69,22 @@ The confusion matrix below illustrates the classification performance on the tes
 * Lower the probability threshold from 0.5 → 0.4 to improve recall/precision on class 0.
 
 * Implement custom loss functions to penalize the model more heavily for missing the minority class.
+
+****
+
+## References
+
+1. Case, D.: Git add, commit, push guide. https://github.com/denisecase/pro-analytics-01/blob/main/03-repeatable-workflow/06-git-add-commit-push.md (2023), accessed: 2025-06-29
+
+2. Kabir, S.: Procurement KPI analysis dataset. https://www.kaggle.com/datasets/shahriarkabir/procurement-kpi-analysis-dataset (2022), accessed: 2025-06-23
+
+3. Team, T.E.: Why procurement is a good career: Key reasons to consider this path. https://www.techneeds.com/2025/04/05/why-procurement-is-a-good-career-key-reasons-to-consider-this-path/ (April 2025), accessed: 2025-06-29
+
+4. Team, U.E.: Top 100 data science project ideas for beginners. https://www.upgrad.com/blog/data-science-project-ideas-topics-beginners/ (2024), accessed: 2025-06-23
+
+## Acknowledgments
+
+Special thanks to Professor Denise Case for guidance on Git workflows and project structure best practices. Data visualization and analysis techniques were developed using resources from UpGrad's data science project compilation.
 
 ****
 
