@@ -197,10 +197,12 @@ graphviz
 # SpaCy: A powerful NLP library ~50 MB (core library; language models + ~300 MB or more per model).
 #spacy
 
+scipy
+
+imblearn
+
 # ======================================================
 # OPTIONAL - EXPORT SPECIFIC PACKAGE VERSIONS
 # ======================================================
 # In a terminal, run the following command to export the specific package versions to a file:
 #pip freeze > rv.txt
-
-scipy
