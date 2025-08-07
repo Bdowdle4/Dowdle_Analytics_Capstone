@@ -65,6 +65,7 @@ The confusion matrix below illustrates the classification performance on the tes
 * Apply resampling techniques like SMOTE (Synthetic Minority Oversampling) for oversampling class 0.
 
 * Use class weighting in both logistic regression and random forest (class_weight='balanced').
+   (Completed on Random Forest model in the Jupyter notebook ([PeerReview.ipynb](https://github.com/Bdowdle4/Dowdle_Analytics_Capstone/blob/main/Notebooks/PeerReview.ipynb)))
 
 * Lower the probability threshold from 0.5 → 0.4 to improve recall/precision on class 0.
 
@@ -141,7 +142,7 @@ Verify your repository contains:
 - [x] Useful README.md
 - [x] Useful requirements.txt
 - [x] Dataset, stored in a data folder
-- [ ] Peer Review (peer_review.md)
+- [x] Peer Review Implementation ([PeerReview.ipynb](https://github.com/Bdowdle4/Dowdle_Analytics_Capstone/blob/main/Notebooks/PeerReview.ipynb))
 
 ****
 
